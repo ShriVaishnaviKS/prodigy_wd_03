@@ -1,17 +1,18 @@
 # prodigy_wd_03
+The uses, rules, and conclusion for your tic-tac-toe web application.
+
 Uses
-1. **Showcase Skills**: Highlight your technical and soft skills in web development.
-2. **Display Projects**: Provide detailed descriptions and links to your work to demonstrate your capabilities.
-3. **Professional Branding**: Create a personal brand that reflects your style and professionalism.
-4. **Networking Opportunities**: Allow potential employers or collaborators to easily contact you.
-5. **Career Advancement**: Enhance your online presence, making it easier for recruiters to find you.
+1. **Interactive Gameplay**: Users can play against each other or, with further development, against an AI opponent.
+2. **Skill Development**: A practical project for learning and applying HTML, CSS, and JavaScript.
+3. **Engagement**: Provides a fun way to challenge friends and improve problem-solving skills.
+4. **Customization**: Users can modify the game or add features, fostering creativity and coding practice.
 
 Rules
-1. **Clarity**: Ensure all information is clear and easy to understand; avoid jargon where possible.
-2. **Consistency**: Maintain consistent design elements (colors, fonts, layout) throughout the site.
-3. **Responsiveness**: Design the site to be mobile-friendly, ensuring it looks good on all devices.
-4. **Accessibility**: Use alt text for images and ensure good color contrast for readability.
-5. **Regular Updates**: Keep content current, adding new projects and updating your skills as you grow.
+1. **Player Turns**: Players take turns placing their markers (X or O) in empty cells.
+2. **Winning Conditions**: A player wins by getting three markers in a row, column, or diagonal.
+3. **Draw Condition**: The game ends in a draw if all cells are filled without a winner.
+4. **Input Validation**: Players cannot place a marker in an occupied cell.
+5. **Reset Functionality**: The game can be reset at any time to start fresh.
 
 Conclusion
-Creating a personal portfolio website is an essential step for any web developer looking to establish a professional online presence. By thoughtfully showcasing your skills, projects, and background, you can effectively attract potential employers and clients. Adhering to the outlined uses and rules will ensure your website is both functional and visually appealing, ultimately enhancing your career opportunities in the ever-evolving tech landscape. Regularly updating your site will keep it relevant and engaging, positioning you as a proactive and dedicated professional.
+The tic-tac-toe web application is an excellent project for both beginners and experienced developers looking to reinforce their skills. It provides a platform for users to engage in friendly competition while learning essential web development techniques. By adhering to the outlined uses and rules, developers can create a polished and enjoyable game. Expanding the application with additional features, such as AI opponents or enhanced visuals, can further enhance its appeal and usability, making it a valuable addition to any portfolio.
